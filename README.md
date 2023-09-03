@@ -57,7 +57,7 @@ Here are some screenshots of Faceide in action:
 
 Faceide is licensed under the [MIT License](LICENSE).
 
-উত্স: Bing-এর সাথে বার্তালাপ, 8/25/2023
+
 (1) Learn the Key Differences Between Kivy and Tkinter - EDUCBA. https://www.educba.com/kivy-vs-tkinter/.
 (2) GitHub - kivy/kivy: Open source UI framework written in Python, running .... https://github.com/kivy/kivy.
 (3) Kivy · PyPI. https://pypi.org/project/Kivy/.
